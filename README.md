@@ -7,6 +7,7 @@
 本数据集适配论文《面向形态多变垃圾的轻量化视觉语言模型细粒度分类方法研究》的研究需求，可用于模型训练、泛化能力验证、对比实验等场景。
 
 ## 二、数据集结构
+```
 waste_dataset/
 ├── images
 │   ├── train/                # 训练集图片
@@ -29,7 +30,8 @@ waste_dataset/
 │       └── toilet_paper
 └── labels
 ├── train_labels.csv
-└── val_labels.csv
+└── val_labels.cs
+```
 ### CSV标注字段说明
 |字段|说明|
 |----|----|
