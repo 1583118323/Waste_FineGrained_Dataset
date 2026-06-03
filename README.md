@@ -8,7 +8,7 @@
 
 ## 二、数据集结构
 ```
-waste_dataset/
+Waste_FineGrained_Dataset/
 ├── images
 │   ├── train/                # 训练集图片
 │   │   ├── aluminum_can
@@ -82,3 +82,5 @@ val_df = pd.read_csv("labels/val_labels.csv")
 English Citation
 Sun Z Y, Liu Z, Wang X Q, Li N. Fine-grained Domestic Waste Classification Dataset[EB/OL]. GitHub, 2025, https://github.com/1583118323/Waste_FineGrained_Dataset
 The corresponding research paper is under peer review, formal citation will be updated after acceptance.
+
+完整数据集压缩包下载地址：[Release v1.0](https://github.com/1583118323/Waste_FineGrained_Dataset/releases/tag/v1.0)
